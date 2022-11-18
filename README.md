@@ -1,4 +1,4 @@
-# Dumbways-DO-B14---MaolanaFikri
+# Dumbways-DO-B14---MaolanaFikri Day 1
 
 1. yang kutahu tentang devops adalah gabungan dari dari orang developer dan operations, yang mana devops bekerja diantara mereka dan agar mereka bisa berkolaborasi agar pekerjaan jadi lebih efisien. yang ku tahu devops itu adalah prinsip
 
